@@ -11,11 +11,9 @@
 </p>
 <br>
 
-#
 ### 📂 [NPM](https://npmjs.com/smartdjs)
-#
 
-<br>
+</br>
 
 ## 🖥️ <b>How to install ?
 
@@ -27,12 +25,12 @@
 <br>
 
 # 🎉 What's New 🎉
-- 1.0.3
+- 1.0.4
 - Giveaway System
 - Ticket System
+- nqn
 # ❌ Features Removed ❌
 
 - Chatbot (Causing Too Many Errors to Add New Things)
 - RPS (Causing Too Many Errors to Add New Things)
-
 
