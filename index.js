@@ -1,3 +1,4 @@
+
 //------------------Checking------------------//
        //----Checking Node Version----//
 if (process.version.slice(1, 3) - 0 < 16)
@@ -26,7 +27,8 @@ if (discordJSVersion.slice(0, 2) !== '13')
 //--------------------------------------------//
 
 
-//------------------Funcitions------------------//
-              //----Games/Fun----//
-module.exports.rps = require('./src/Games-Fun/rps')
-//---------------------------------------------//
+
+//                  Funcitions                   //
+module.exports.nqn = require('./src/General/nqn')
+module.exports.giveawaySystem = require('./src/System/giveaway')
+module.exports.ticketSystem = require('./src/System/ticketSystem')
