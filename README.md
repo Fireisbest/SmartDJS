@@ -27,14 +27,12 @@
 <br>
 
 # 🎉 What's New 🎉
-- The Package is New
-- RPS
-#
-   
-#❌ Features Removed ❌
-- Chatbot 
+- 1.0.3
+- Giveaway System
+- Ticket System
+# ❌ Features Removed ❌
 
-#
-   
-# Credits
-- Rahuletto#0243 | Readme and Rps Code
+- Chatbot (Causing Too Many Errors to Add New Things)
+- RPS (Causing Too Many Errors to Add New Things)
+
+
