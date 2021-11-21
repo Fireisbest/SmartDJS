@@ -11,7 +11,7 @@
 </p>
 <br>
 
-### 📂 [NPM](https://npmjs.com/smartdjs)
+### 📂 [NPM](https://npmjs.com/package/smartdjs)
 
 </br>
 
@@ -25,12 +25,10 @@
 <br>
 
 # 🎉 What's New 🎉
-- 1.0.4
-- Giveaway System
-- Ticket System
-- nqn
-# ❌ Features Removed ❌
-
-- Chatbot (Causing Too Many Errors to Add New Things)
-- RPS (Causing Too Many Errors to Add New Things)
-
+- 1.0.5
+- Calculator
+- Steal Emoji
+# But Why?
+- One Line of Code can Make **BIG STUFF** (big than pablo)
+- 5 Funcitions
+- No Bugs
